@@ -1,0 +1,81 @@
+body {
+    background-color: bisque;
+    background-repeat: no-repeat;
+    
+    }
+    h1 {
+      font-size: 60px;
+    }
+    
+    #judul {
+      font-family: Arial, Helvetica, sans-serif;
+      color:cadetblue;
+      text-align: center;
+      margin: 0;
+      font-size: 70pt;
+      background-color: black;
+    }
+    
+    table {
+      display: inline-block;
+    }
+    
+    #jdl {
+      text-align: center;
+    }
+    
+    #member {
+      width: 100px;
+      display: inline-block;
+    }
+    
+    #mposisi {
+      font-family: Arial, Helvetica, sans-serif;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      text-align: center;
+      display: inline-block;
+      cursor: pointer;
+    }
+    #mtgl {
+      font-family: Arial, Helvetica, sans-serif;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      text-align: center;
+      display: inline-block;
+      cursor: pointer;
+    }
+    #msub {
+      font-family: Arial, Helvetica, sans-serif;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      text-align: center;
+      display: inline-block;
+      cursor: pointer;
+    }
+    #mnama {
+      font-family: Arial, Helvetica, sans-serif;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      text-align: center;
+      display: inline-block;
+      cursor: pointer;
+    }
+    
+    #mcback {
+      font-family: Arial, Helvetica, sans-serif;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      text-align: center;
+      display: inline-block;
+      cursor: pointer;
+    }
+    
+    .left-div {
+      width: 100px;
+      display: inline-block;
+    }
+    
+    .right-div {
+      display: inline-block;
+    }
